@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+curator-exec.iml
+curator-exec/out/
+META-INF
+build/*
+target
